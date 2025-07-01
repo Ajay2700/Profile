@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-2022-soft-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-2022-soft-tech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay2700&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay2700" /> </p>
 # 💫 About Me:
 Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android Developer || Wanted to Bring an Powerful Application that Will make our country Represent Globally around the world<br><br>🌱 I’m currently learning **AI ML / Flutter **<br><br>💬 Ask me about Android Support<br>
 
@@ -26,12 +26,12 @@ Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ajay-2022-Soft-Tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ajay-2022-Soft-Tech&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-2022-Soft-Tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ajay2700&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ajay2700&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay2700&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ajay-2022-Soft-Tech&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ajay2700&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
