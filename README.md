@@ -26,7 +26,7 @@ Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ajay2700&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ajay2700&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay2700&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
